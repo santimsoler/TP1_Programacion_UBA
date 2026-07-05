@@ -1,6 +1,7 @@
 # TP1 - Programación UBA - Grupo 2
 
 Trabajo Práctico N° 1 del Taller de Programación de la Maestría en Economía Aplicada UBA.
+Integrantes: M. Soler, Santiago,
 
 ## Tema
 
