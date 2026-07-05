@@ -4,7 +4,7 @@ Trabajo Práctico N° 1 del Taller de Programación de la Maestría en Economía
 
 ## Tema
 
-Caracterización de la informalidad laboral en Argentina utilizando microdatos de la Encuesta Permanente de Hogares (EPH), cuarto trimestre de 2024 y 2025.
+Caracterización de la informalidad laboral en Argentina utilizando microdatos de la Encuesta Permanente de Hogares (EPH), cuarto trimestre de 2024 y 2025. Comparacion usando el Upper-Tier informal wage employees.
 
 ## Contenido
 
